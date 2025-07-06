@@ -1,4 +1,4 @@
-# 𝗪𝗵𝗮𝘁 𝗮𝗿𝗲 𝗡𝗮𝗺𝗲𝘀𝗽𝗮𝗰𝗲𝘀?
+## 𝗪𝗵𝗮𝘁 𝗮𝗿𝗲 𝗡𝗮𝗺𝗲𝘀𝗽𝗮𝗰𝗲𝘀?
 
 Namespaces in Linux isolate what a process can see — think of them as blinders for processes, preventing them from seeing or affecting the rest of the system.
 
